@@ -44,7 +44,7 @@ namespace 補單系統
                 return;
             }
             // 連接字串
-            string connectionString = "Data Source=10.20.99.58;Initial Catalog=MIS_DOM;User Id=crm_sa;Password=CrmSa!@;";
+            string connectionString = "Data Source=;Initial Catalog=MIS_DOM;User Id=;Password=
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
@@ -130,7 +130,7 @@ namespace 補單系統
             }
 
             // 連接字串
-            string connectionString = "Data Source=10.20.99.58;Initial Catalog=MIS_DOM;User Id=crm_sa;Password=CrmSa!@;";
+            string connectionString = "Data Source=;Initial Catalog=MIS_DOM;User Id=;Password=!@;";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
             {
