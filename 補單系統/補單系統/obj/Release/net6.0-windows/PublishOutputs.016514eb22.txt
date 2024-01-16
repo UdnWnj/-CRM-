@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\補單系統\補單系統.exe
+C:\Users\Asus\Desktop\補單系統\補單系統.dll
+C:\Users\Asus\Desktop\補單系統\補單系統.deps.json
+C:\Users\Asus\Desktop\補單系統\補單系統.runtimeconfig.json
+C:\Users\Asus\Desktop\補單系統\補單系統.pdb
+C:\Users\Asus\Desktop\補單系統\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\補單系統\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Desktop\補單系統\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Desktop\補單系統\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Desktop\補單系統\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Desktop\補單系統\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
